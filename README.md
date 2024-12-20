@@ -5,7 +5,7 @@ Installation instructions:
 
 Clone the repo:
 
-$ git clone https://github.com/jacklevin74/voter
+$ git clone [https://github.com/jacklevin74/voter](https://github.com/xenkonieczny/voter)
 $ cd voter
 
 Install Rust:
