@@ -6,6 +6,7 @@ Installation instructions:
 Clone the repo:
 
 $ git clone https://github.com/xenkonieczny/voter
+
 $ cd voter
 
 Install Rust:
@@ -27,6 +28,19 @@ $ ./target/release/voter
 During initialization, the node will create id.json file with your private key so you are be identified among other nodes,
 this is also where you will receive your future rewards.
 As your lightnode runs, it will submit computed data to xenblocks consensus ledger, which can be accessed here:
-http://xenminer.mooo.com:5000/show_data
+http://xenminer.mooo.com:5000/show_data (update: http://xenblocks.io:5000/store_data)
+
+
 
 The node will also write into a log file (voter.log) in the same directory.
+
+Update xenkonieczny:
++address update
+
+
+tips&tricks:
+if linker cc not found use:
+
+sudo apt update
+
+sudo apt install build-essential
