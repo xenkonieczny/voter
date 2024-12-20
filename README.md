@@ -39,6 +39,7 @@ Update xenkonieczny:
 
 
 tips&tricks:
+
 if linker cc not found use:
 
 sudo apt update
