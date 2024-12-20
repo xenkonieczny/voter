@@ -35,7 +35,8 @@ http://xenminer.mooo.com:5000/show_data (update: http://xenblocks.io:5000/store_
 The node will also write into a log file (voter.log) in the same directory.
 
 Update xenkonieczny:
-+address update
+
++address update http://xenblocks.io:5000/store_data
 
 
 tips&tricks:
