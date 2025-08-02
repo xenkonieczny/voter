@@ -20,6 +20,7 @@ check if cargo is installed:
 $ cargo -v 
 
 sudo apt install pkg-config libssl-dev
+
 sudo apt install build-essential
 
 Build project:
