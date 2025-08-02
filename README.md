@@ -17,6 +17,8 @@ check if cargo is installed:
 
 $ cargo -v 
 
+sudo apt install pkg-config libssl-dev
+
 Build project:
 
 $ cargo build --release
